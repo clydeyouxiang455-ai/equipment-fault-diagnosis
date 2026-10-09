@@ -1,0 +1,19 @@
+{
+  "test_records": 2500,
+  "test_failures": 85,
+  "precision": 0.13934426229508196,
+  "recall": 0.8,
+  "f1": 0.23734729493891799,
+  "average_precision": 0.3833152705859156,
+  "confusion_matrix": [
+    [
+      1995,
+      420
+    ],
+    [
+      17,
+      68
+    ]
+  ],
+  "warning": "Synthetic random split only; this does not demonstrate performance on real equipment or future time periods. The fixed 0.50 classification threshold is exploratory and was not optimized on a validation set."
+}
