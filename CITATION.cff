@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the UCI AI4I 2020 dataset."
+title: "Equipment Fault Diagnosis & Reliability Analysis"
+type: software
+authors:
+  - name: "Project contributor"
+references:
+  - type: dataset
+    title: "AI4I 2020 Predictive Maintenance Dataset"
+    publisher: "UCI Machine Learning Repository"
+    year: 2020
+    doi: 10.24432/C5HS5C
+    url: "https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset"
+license: MIT
