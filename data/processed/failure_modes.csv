@@ -1,0 +1,6 @@
+failure_indicator,flagged_records,flag_rate,cooccurring_machine_failures,indicator_without_machine_failure,target_alignment_rate,records_with_multiple_mode_flags
+HDF,115,0.0115,115,0,1.0,24
+OSF,98,0.0098,98,0,1.0,24
+PWF,95,0.0095,95,0,1.0,24
+TWF,46,0.0046,46,0,1.0,24
+RNF,19,0.0019,1,18,0.05263157894736842,24

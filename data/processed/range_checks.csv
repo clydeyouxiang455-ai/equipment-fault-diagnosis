@@ -1,0 +1,6 @@
+feature,invalid_values
+Air temperature [K],0
+Process temperature [K],0
+Rotational speed [rpm],0
+Torque [Nm],0
+Tool wear [min],0

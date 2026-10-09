@@ -1,0 +1,2 @@
+records,machine_failure_records,observed_per_record_failure_proportion,ci95_low,ci95_high
+10000,339,0.0339,0.030528108212544418,0.03762986821922954
